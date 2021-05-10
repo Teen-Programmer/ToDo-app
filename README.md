@@ -88,4 +88,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 [Unlicense](https://choosealicense.com/licenses/unlicense/)
 
-# Thanks <ins>[**Code Blooded Creatures!+!**](https://hashfx.github.io/harshfx/)</ins>
+# Thanks <ins>[**Code Blooded Creatures!+!**](http://harshtech.me)</ins>
